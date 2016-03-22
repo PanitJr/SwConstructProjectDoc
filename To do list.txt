@@ -1,11 +1,13 @@
 -The business goals/rules
-X The overall of the requirement(DONE BY KAN)		KAN 1 POINT
--Details in each requirement				YONG 0 POINT
--The input and output information			NID 0 POINT
+X The as-an system(DONE BY KAN)
+X The To-be system(DONE BY KAN)
+X The overall of the requirement(DONE BY KAN)		KAN 4 POINT
+-Details in each requirement				            YONG 0 POINT
+-The input and output information			          NID 0 POINT
 -Overll architecture design
 -The package design
 -Construction Manual
 -The data dictionary
 -The construction rules
 -Traceability matrix
--Tool used
+X Tool used(DONE BY SAME KAN)
