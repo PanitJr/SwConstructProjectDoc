@@ -1,7 +1,7 @@
 -The business goals/rules
--The overall of the requirement
--Details in each requirement
--The input and output information
+X The overall of the requirement(DONE BY KAN)		KAN 1 POINT
+-Details in each requirement				YONG 0 POINT
+-The input and output information			NID 0 POINT
 -Overll architecture design
 -The package design
 -Construction Manual
