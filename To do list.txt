@@ -1,7 +1,7 @@
--The business goals/rules
+X The business goals/rules(DONE BY KAN)
 X The as-an system(DONE BY KAN)
 X The To-be system(DONE BY KAN)
-X The overall of the requirement(DONE BY KAN)		KAN 4 POINT
+X The overall of the requirement(DONE BY KAN)		KAN 5 POINT
 -Details in each requirement				            YONG 0 POINT
 -The input and output information			          NID 0 POINT
 -Overll architecture design
