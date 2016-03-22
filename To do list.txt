@@ -1,0 +1,11 @@
+-The business goals/rules
+-The overall of the requirement
+-Details in each requirement
+-The input and output information
+-Overll architecture design
+-The package design
+-Construction Manual
+-The data dictionary
+-The construction rules
+-Traceability matrix
+-Tool used
